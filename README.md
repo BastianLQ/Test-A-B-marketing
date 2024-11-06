@@ -6,7 +6,8 @@ __Proyecto de análisis a la plataforma de delivery Instacart, análisis explora
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar datos de Instacart para extraer información valiosa sobre el comportamiento de los clientes y las tendencias de los productos. Utilizando [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave.
+Junto con el departamento de marketing de la compañía en cuestión, se ha recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos. 
+Se deben priorizar estas hipótesis, lanzar un test A/B y analizar los resultados.
   
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
@@ -14,10 +15,40 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - __Bibliotecas:__ Pandas, Matplotlib.
 
 ## Proceso del Proyecto
-- __Descripción de los datos:__ Los datos fueron extraídos de [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart _(los datasets están en Drive porque superan el peso máximo permitido de GitHub)_, en esta fase, también, se les da una revisión superficial y se corrigen problemas de importación si es que llegasen a surgir.
-- __Preprocesamiento de los datos:__ Se realizaron varias operaciones de limpieza, incluyendo manejo de valores nulos, normalización y formateo de datos.
-- __Análisis Exploratorio de Datos (EDA):__ Esta fase se centró en analizar la integridad de los datos y rescatar insights valiosos. Utilizando pandas se exploraron los datos para obtener una comprensión inicial, intermedia y avanzada, y con matplotlib, se generaron visualizaciones para ilustrar los hallazgos clave del análisis.
-- __Resultados:__ Se identificaron patrones y tendencias en los datos, como los productos más vendidos y reordenados, y el comportamiento general de los clientes en términos de cantidad de artículos por pedido.
+Debido a las caracterísiticas del proyecto, su desarrollo se dividió en dos partes.
+
+__Parte 1. Priorizar hipótesis__
+
+El archivo `hypotheses_us.csv` contiene nueve hipótesis sobre cómo aumentar los ingresos de una tienda en línea con Reach, Impact, Confidence y Effort especificados para cada una.
+
+Acciones a seguir:
+
+- Aplicar el framework ICE para priorizar hipótesis. Ordenarlas en orden descendente de prioridad.
+- Aplicar el framework RICE para priorizar hipótesis. Ordenarlas en orden descendente de prioridad.
+- Mostrar cómo cambia la priorización de hipótesis cuando utilizas RICE en lugar de ICE. Proporcionar una explicación de los cambios.
+
+__Parte 2. Análisis de test A/B__
+
+Se realizó un test A/B y los resultados están en los archivos `orders_us.csv` y `visitors_us.csv`.
+
+Analizar el test A/B:
+
+- Representar gráficamente el ingreso acumulado por grupo. Hacer conclusiones y conjeturas.
+- Representar gráficamente el tamaño de pedido promedio acumulado por grupo. Hacer conclusiones y conjeturas.
+- Representar gráficamente la diferencia relativa en el tamaño de pedido promedio acumulado para el grupo B en comparación con el grupo A. Hacer conclusiones y conjeturas.
+- Calcular la tasa de conversión de cada grupo como la relación entre los pedidos y el número de visitas de cada día. Representar gráficamente las tasas de conversión diarias de los dos grupos y describir la diferencia. Sacar conclusiones y hacer conjeturas.
+- Trazar un gráfico de dispersión del número de pedidos por usuario. Hacer conclusiones y conjeturas.
+- Calcular los percentiles 95 y 99 para el número de pedidos por usuario. Definir el punto en el cual un punto de datos se convierte en una anomalía.
+- Trazar un gráfico de dispersión de los precios de los pedidos. Hacer conclusiones y conjeturas.
+- Calcular los percentiles 95 y 99 de los precios de los pedidos. Definir el punto en el cual un punto de datos se convierte en una anomalía.
+- Encontrar la significancia estadística de la diferencia en la conversión entre los grupos utilizando los datos en bruto. Hacer conclusiones y conjeturas.
+- Encontrar la significancia estadística de la diferencia en el tamaño promedio de pedido entre los grupos utilizando los datos en bruto. Hacer conclusiones y conjeturas.
+- Encontrar la significancia estadística de la diferencia en la conversión entre los grupos utilizando los datos filtrados. Hacer conclusiones y conjeturas.
+- Encontrar la significancia estadística de la diferencia en el tamaño promedio de pedido entre los grupos utilizando los datos filtrados. Hacer conclusiones y conjeturas.
+- Tomar una decisión basada en los resultados de la prueba. Las decisiones posibles son: 
+    - 1. Parar la prueba, considerar a uno de los grupos como líder. 
+    - 2. Parar la prueba, concluir que no hay diferencia entre los grupos. 
+    - 3. Continuar la prueba.
 
 ## Relevancia de los descubrimientos
 El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
