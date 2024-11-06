@@ -1,5 +1,5 @@
 # Test-A-B-e-commerce
-__Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
+__Proyecto de priorización de hipótesis y desarrollo de test A/B__
 
 <image src="https://github.com/BastianLQ/Test-A-B-e-commerce/blob/main/N9.jpg" alt="Collage de gráficos">
 
