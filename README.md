@@ -6,7 +6,7 @@ __Proyecto de análisis a la plataforma de delivery Instacart, análisis explora
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
 
 ## Descripción del Proyecto
-Junto con el departamento de marketing de la compañía en cuestión, se ha recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos. 
+Junto con el departamento de marketing de la compañía en cuestión, se ha creado una lista de hipótesis que pueden ayudar a aumentar los ingresos. 
 Se deben priorizar estas hipótesis, lanzar un test A/B y analizar los resultados.
   
 ## Herramientas Utilizadas
