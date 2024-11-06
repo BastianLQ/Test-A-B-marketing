@@ -12,7 +12,7 @@ Se deben priorizar estas hipótesis, lanzar un test A/B y analizar los resultado
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
 - __Entorno de Desarrollo:__ Jupyter Notebook.
-- __Bibliotecas:__ Pandas, Matplotlib.
+- __Bibliotecas:__ Pandas, Matplotlib, Scipy, Numpy, Math, Seaborn, Datetime.
 
 ## Proceso del Proyecto
 Debido a las caracterísiticas del proyecto, su desarrollo se dividió en dos partes.
@@ -51,7 +51,7 @@ Analizar el test A/B:
     - 3. Continuar la prueba.
 
 ## Relevancia de los descubrimientos
-El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
+El desarrollo del proyecto, en la primera parte, reveló las hipótesis de que deben priorizarse y las que pueden esperar un poco más a ser probadas. En cuanto al análisis del test A/B se tomó una decisión en base al análisis del experimento, se calcularon porcentajes clave y valores p, con los cuales fundamentamos que la decisión elegida es la más beneficiosa para la compañía, ya que generaría importantes ganancias al ser implementada.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
