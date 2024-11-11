@@ -3,7 +3,7 @@ __Proyecto de priorización de hipótesis y desarrollo de test A/B__
 
 <image src="https://github.com/BastianLQ/Test-A-B-e-commerce/blob/main/N9.jpg" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)_
 
 ## Descripción del Proyecto
 Junto con el departamento de marketing de la compañía en cuestión, se ha creado una lista de hipótesis que pueden ayudar a aumentar los ingresos. 
@@ -53,5 +53,5 @@ Analizar el test A/B:
 ## Relevancia de los descubrimientos
 El desarrollo del proyecto, en la primera parte, reveló las hipótesis de que deben priorizarse y las que pueden esperar un poco más a ser probadas. En cuanto al análisis del test A/B se tomó una decisión en base al análisis del experimento, se calcularon porcentajes clave y valores p, con los cuales fundamentamos que la decisión elegida es la más beneficiosa para la compañía, ya que generaría importantes ganancias al ser implementada.
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
