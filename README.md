@@ -1,4 +1,4 @@
-# Test-A-B-e-marketing
+# Test-A-B-marketing
 __Proyecto de priorización de hipótesis y desarrollo de test A/B__
 
 <image src="https://github.com/BastianLQ/Test-A-B-e-commerce/blob/main/N9.jpg" alt="Collage de gráficos">
