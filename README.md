@@ -1,7 +1,7 @@
 # Test-A-B-marketing
 __Proyecto de priorización de hipótesis y desarrollo de test A/B__
 
-<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/N9.jpg" alt="Collage de gráficos">
+<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/banner.png" alt="Collage de gráficos">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)_
 
