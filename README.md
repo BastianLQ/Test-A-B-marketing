@@ -52,7 +52,7 @@ Analizar el test A/B:
 
 ## Descubrimientos importantes
 ### Parte 1: Priorizar hipótesis
-- Framework `ICE`: Su fórmula es $\frac{Impacto x Confianza}{Esfuerzo}$
+- Framework `ICE`: Su fórmula es $\frac{Impacto*Confianza}{Esfuerzo}$
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_31_0.png" alt="Collage de gráficos">
 
