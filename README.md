@@ -50,8 +50,9 @@ Analizar el test A/B:
     - 2. Parar la prueba, concluir que no hay diferencia entre los grupos. 
     - 3. Continuar la prueba.
 
-## Relevancia de los descubrimientos
-El desarrollo del proyecto, en la primera parte, reveló las hipótesis de que deben priorizarse y las que pueden esperar un poco más a ser probadas. En cuanto al análisis del test A/B se tomó una decisión en base al análisis del experimento, se calcularon porcentajes clave y valores p, con los cuales fundamentamos que la decisión elegida es la más beneficiosa para la compañía, ya que generaría importantes ganancias al ser implementada.
+## Descubrimientos importantes
+### Parte 1: Priorizar hipótesis
+
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
