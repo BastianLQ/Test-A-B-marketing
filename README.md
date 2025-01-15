@@ -75,7 +75,14 @@ La diferencia de resultados entre los framework __se debe al parámetro `Reach` 
 Considerando lo anterior es que escogeremos la __Hipótesis 7__ para ser puesta a prueba en el test A/B.
 
 ### Parte 2: Análisis de test A/B
+En general, el grupo B se muestra superior al A en todos los sentidos:
+- Tamaño de los pedidos.
 
+<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_64_0.png" alt="Collage de gráficos">
+
+Se observa que el grupo B es superior por aproximadamente un 25%.
+
+- Tasa de conversión.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
