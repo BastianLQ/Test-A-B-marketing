@@ -68,5 +68,9 @@ Framework `RICE`: Su fórmula es $\frac{Alcance * Impacto * Confianza}{Esfuerzo}
 - Hipótesis 2: __Añadir bloques de recomendación en la web de la tienda, esto aumentará las conversiones y el tamaño de compra.__
 - Hipótesis 0: __Añadir dos nuevos canales para atraer tráfico, esto traerá un 30% más de usuarios.__
 
+La diferencia de resultados entre los framework __se debe al parámetro `Reach` que refiere al alcance que dicha acción tendría entre los usuarios, a diferencia de `ICE`, `RICE` considera esto dentro de la ecuación__. Es por eso que las hipótesis más importantes de este framework son optimizaciones globales a la web, alcanzando a todos los usuarios que interactúen con ella, en cambio las prioridades de `ICE` son potencialmente muy efectivas, como el descuento por cumpleaños y crear nuevos canales de tráfico, pero en alcance quedan por detrás de las anteriores.
+
+Considerando lo anterior es que escogeremos la __Hipótesis 7__ para ser puesta a prueba en el test A/B.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
