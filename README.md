@@ -53,6 +53,9 @@ Analizar el test A/B:
 ## Descubrimientos importantes
 ### Parte 1: Priorizar hipótesis
 
+<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_31_0.png" alt="Collage de gráficos">
+
+<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_37_0.png" alt="Collage de gráficos">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
