@@ -82,6 +82,8 @@ En general, el grupo B se muestra superior al A en todos los sentidos:
 
 Se observa que el grupo B es superior por aproximadamente un 25%.
 
+<br>
+
 - Tasa de conversión.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
