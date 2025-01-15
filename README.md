@@ -52,7 +52,7 @@ Analizar el test A/B:
 
 ## Descubrimientos importantes
 ### Parte 1: Priorizar hipótesis
-Framework `ICE`: Su fórmula es $\frac{Impacto * Confianza}{Esfuerzo}$
+Framework `ICE`: Su fórmula es $\frac{Impacto * Confianza}{Esfuerzo}$.
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_31_0.png" alt="Collage de gráficos">
 
@@ -60,7 +60,7 @@ Framework `ICE`: Su fórmula es $\frac{Impacto * Confianza}{Esfuerzo}$
 - Hipótesis 0: __Añadir dos nuevos canales para atraer tráfico, esto traerá un 30% más de usuarios.__
 - Hipótesis 7: __Añadir formularios de suscripción en todas las páginas principales, esto ayudará a crear una lista de mails de clientes.__
 
-Framework `RICE`: Su fórmula es $\frac{Alcance * Impacto * Confianza}{Esfuerzo}$
+Framework `RICE`: Su fórmula es $\frac{Alcance * Impacto * Confianza}{Esfuerzo}$.
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_37_0.png" alt="Collage de gráficos">
 
