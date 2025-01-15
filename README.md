@@ -52,16 +52,21 @@ Analizar el test A/B:
 
 ## Descubrimientos importantes
 ### Parte 1: Priorizar hipótesis
-Los resultados de `ICE` y `RICE` son los siguientes:
+Los resultados de la clasificación por `ICE` son los siguientes:
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_31_0.png" alt="Collage de gráficos">
 
-Las tres hipótesis más relevantes según el framework `ICE` son:
+- Hipótesis 8: __Lanzar una promoción que da descuentos a los usuarios en sus cumpleaños.__
+- Hipótesis 0: __Añadir dos nuevos canales para atraer tráfico, esto traerá un 30% más de usuarios.__
+- Hipótesis 7: __Añadir formularios de suscripción en todas las páginas principales, esto ayudará a crear una lista de mails de clientes.__
+
+Los resultados de la clasificación por `RICE` son los siguientes:
+
+<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_37_0.png" alt="Collage de gráficos">
+
 - Hipótesis 7: __Añadir formularios de suscripción en todas las páginas principales, esto ayudará a crear una lista de mails de clientes.__
 - Hipótesis 2: __Añadir bloques de recomendación en la web de la tienda, esto aumentará las conversiones y el tamaño de compra.__
 - Hipótesis 0: __Añadir dos nuevos canales para atraer tráfico, esto traerá un 30% más de usuarios.__
-
-<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_37_0.png" alt="Collage de gráficos">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
