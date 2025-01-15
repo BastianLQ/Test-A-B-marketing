@@ -99,6 +99,7 @@ Se observa que el grupo B es superior por aproximadamente un 25%.
 
 Se observa que el grupo B convierte, por lo bajo, un 10% más que el grupo A.
 
+Si nos fijamos en los gráficos mostrados, podemos apreciar variaciones súbitas en los valores relativos, esto es indica la presencia de valores atípicos que pueden afectar severamente el resultado del experimento, por ende estos serán filtrados de la siguiente forma:
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
