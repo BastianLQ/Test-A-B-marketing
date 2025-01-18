@@ -129,7 +129,7 @@ __Datos filtrados__
 
 #### Decisión final
 
-Se decide declarar al grupo B como vencedor e implementar el cambio sugerido, en este caso, implementar formularios de suscripción para captar correos electrónicos, ya que, este cambio traería un beneficio de un 14% aproximadamente en la tasa de conversión, además, el tamaño de los pedidos podría verse levemente aumentado también.
+__Se decide declarar al grupo B como vencedor e implementar el cambio sugerido, en este caso, implementar formularios de suscripción para captar correos electrónicos, ya que, este cambio traería un beneficio de un 14% aproximadamente en la tasa de conversión, además, el tamaño de los pedidos podría verse levemente aumentado también.__
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
