@@ -3,7 +3,7 @@ __Proyecto de priorización de hipótesis y desarrollo de test A/B__
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/banner.png" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)_
+_Para ver desarrollo en código hacer click [aquí](https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Notebook.ipynb)_
 
 ## Descripción del Proyecto
 Junto con el departamento de marketing de la compañía en cuestión, se ha creado una lista de hipótesis que pueden ayudar a aumentar los ingresos. 
@@ -132,5 +132,5 @@ __Se decide declarar al grupo B como vencedor e implementar el cambio sugerido, 
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/mail.png" alt="banner">
   
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
+## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Notebook.ipynb)_
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
