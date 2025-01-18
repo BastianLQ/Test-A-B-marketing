@@ -128,10 +128,9 @@ __Datos filtrados__
 - En el caso del tamaño de los pedidos, la hipótesis nula sigue sin rechazarse, y, esta vez la ventaja del grupo B es de un 5.44%.
 
 #### Decisión final
-
-<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/mail.png" alt="banner">
-
 __Se decide declarar al grupo B como vencedor e implementar el cambio sugerido, en este caso, implementar formularios de suscripción para captar correos electrónicos, ya que, este cambio traería un beneficio de un 14% aproximadamente en la tasa de conversión, además, el tamaño de los pedidos podría verse levemente aumentado también.__
 
+<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/mail.png" alt="banner">
+  
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
