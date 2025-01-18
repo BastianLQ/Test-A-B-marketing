@@ -129,6 +129,8 @@ __Datos filtrados__
 
 #### Decisión final
 
+<image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/mail.png" alt="banner">
+
 __Se decide declarar al grupo B como vencedor e implementar el cambio sugerido, en este caso, implementar formularios de suscripción para captar correos electrónicos, ya que, este cambio traería un beneficio de un 14% aproximadamente en la tasa de conversión, además, el tamaño de los pedidos podría verse levemente aumentado también.__
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
