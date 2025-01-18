@@ -99,6 +99,8 @@ Se observa que el grupo B es superior por aproximadamente un 25%.
 
 Se observa que el grupo B convierte, por lo bajo, un 10% más que el grupo A.
 
+#### Filtrado de outliers
+
 Si nos fijamos en los gráficos mostrados, podemos apreciar variaciones súbitas en los valores relativos, esto es indica la presencia de valores atípicos que pueden afectar severamente el resultado del experimento, por ende estos serán filtrados usando gráficos de dispersión y percentiles extremos (95 y 99). Aquí están los gráficos resultantes:
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/output_80_0.png" alt="Collage de gráficos">
@@ -113,6 +115,8 @@ Los valores atípicos serán filtrados de la siguiente manera:
 - __Serán filtrados los usuarios que realicen más de tres pedidos y/o que realice al menos un pedido por sobre 600 dólares.__
 
 El total de usuarios filtrados son 40 y representan un 3.88% del total.
+
+#### Pruebas estadísticas
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
