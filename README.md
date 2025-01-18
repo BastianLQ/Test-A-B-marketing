@@ -1,4 +1,4 @@
-# Test-A-B-marketing
+# Test A/B: área de marketing
 __Proyecto de priorización de hipótesis y desarrollo de test A/B__
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/banner.png" alt="Collage de gráficos">
