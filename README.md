@@ -117,6 +117,19 @@ Los valores atípicos serán filtrados de la siguiente manera:
 El total de usuarios filtrados son 40 y representan un 3.88% del total.
 
 #### Pruebas estadísticas
+Se realizan cuatro pruebas estadísticas usando el método no paramétrico de Mann-Whitney (debido a que los datos no cumplen con los supuestos para realizar una prueba t). Los resultados son los siguientes:
+
+__Datos sin filtrar__
+- Se rechaza la hipótesis nula en favor de la tasa de conversión del grupo B siendo, en promedio, un 13.81% superior a la del grupo A.
+- En el caso del tamaño de los pedidos, no se rechaza la hipótesis nula, sin embargo, los pedidos del grupo B son un 25.17% mas grandes que los del grupo A.
+
+__Datos filtrados__
+- Se vuelve a rechazar la hipótesis nula en favor de la tasa de conversión del grupo B, esta vez con una diferencia relativa de un 14.3%.
+- En el caso del tamaño de los pedidos, la hipótesis nula sigue sin rechazarse, y, esta vez la ventaja del grupo B es de un 5.44%.
+
+#### Decisión final
+
+Se decide declarar al grupo B como vencedor e implementar el cambio sugerido, en este caso, implementar formularios de suscripción para captar correos electrónicos, ya que, este cambio traería un beneficio de un 14% aproximadamente en la tasa de conversión, además, el tamaño de los pedidos podría verse levemente aumentado también.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P9.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
