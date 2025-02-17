@@ -132,5 +132,5 @@ __Se decide declarar al grupo B como vencedor e implementar el cambio sugerido, 
 
 <image src="https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Images/mail.png" alt="banner">
   
-## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Notebook.ipynb)_
+## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Test-A-B-marketing/blob/main/Notebook.ipynb)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
